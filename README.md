@@ -36,7 +36,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)
 ![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
+![AWS](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
 
 ---
@@ -56,7 +56,7 @@
   <a href="https://linkedin.com/in/pardhasardhirao">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:pardhasardhirao.dev@gmail.com">
+  <a href="mailto:pardhasardhiraob@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail" />
   </a>
   <a href="https://twitter.com/pardhasardhi">
